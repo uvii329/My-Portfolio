@@ -157,7 +157,7 @@ locationLink: "https://maps.google.com/?q=Sri+Lanka",
     {
       school: "Charted Institute of Management Accountants",
       href: "https://www.aicpa-cima.com/home",
-      degree: "Bachelor's Degree of Computer Science (BCS)",
+      degree: "CIMA Diploma in Management Accounting (Operational Level Completed)",
       logoUrl: "/images.jpg",
       start: "2025",
       end: "Present",
