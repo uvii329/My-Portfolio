@@ -47,7 +47,7 @@ locationLink: "https://maps.google.com/?q=Sri+Lanka",
     social: {
       GitHub: {
         name: "GitHub",
-        url: "https://dub.sh/dillion-github",
+        url: "https://github.com/uvii329",
         icon: Icons.github,
         navbar: true,
       },
