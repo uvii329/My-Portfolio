@@ -47,7 +47,7 @@ locationLink: "https://maps.google.com/?q=Sri+Lanka",
     social: {
       GitHub: {
         name: "GitHub",
-        url: "https://github.com/uvii329",
+        url: "mailto:uviisamarakoon@gmail.com",
         icon: Icons.github,
         navbar: true,
       },
