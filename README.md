@@ -13,5 +13,5 @@ A responsive personal portfolio website built with Next.js and TypeScript, featu
 
 ## Contact
 - Email: uviisamarakoon@gmail.com
-- LinkedIn: [[Your LinkedIn]](https://www.linkedin.com/in/uvini-samarakoon-b548b835a/)
+- LinkedIn: [[LinkedIn]](https://www.linkedin.com/in/uvini-samarakoon-b548b835a/)
 
