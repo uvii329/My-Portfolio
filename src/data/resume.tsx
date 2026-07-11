@@ -211,39 +211,36 @@ Physics (B), Biology (B), Chemistry (B)`,
         "/cafe-shop-demo.mp4",
     },
 
-    /*
+  
     {
-      title: "Magic UI",
-      href: "https://magicui.design",
-      dates: "June 2023 - Present",
+      title: "Lovely Loops Business Website",
+      href: "https://lovelyloops.lk",
+      dates: "June 2025 - Present",
       active: true,
       description:
-        "Designed, developed and sold animated UI components for developers.",
+        "Designed and developed a responsive business website for Lovely Loops, a handmade crochet brand, using WordPress. Customized the website layout, content, navigation, and styling to create a professional online presence.",
       technologies: [
-        "Next.js",
-        "Typescript",
-        "PostgreSQL",
-        "Prisma",
-        "TailwindCSS",
-        "Stripe",
-        "Shadcn UI",
-        "Magic UI",
+        "WordPress",
+        "HTML",
+        "CSS",
+        "JavaScript",
       ],
       links: [
         {
           type: "Website",
-          href: "https://magicui.design",
+          href: "https://lovelyloops.lk",
           icon: <Icons.globe className="size-3" />,
         },
         {
           type: "Source",
-          href: "https://github.com/magicuidesign/magicui",
-          icon: <Icons.github className="size-3" />,
+      href: "https://github.com/yourusername/lovely-loops",
+      icon: <Icons.github className="size-3" />,
         },
       ],
       image: "",
       video: "https://cdn.magicui.design/bento-grid.mp4",
     },
+      /*
     {
       title: "llm.report",
       href: "https://llm.report",
