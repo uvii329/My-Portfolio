@@ -207,8 +207,7 @@ Physics (B), Biology (B), Chemistry (B)`,
     },
   ],
       image: "",
-      video:
-        "/cafe-shop-demo.mp4",
+      video:"/cafe-shop-demo.mp4",
     },
 
   
@@ -239,7 +238,7 @@ Physics (B), Biology (B), Chemistry (B)`,
         },
       ],
       image: "",
-      video: "https://cdn.magicui.design/bento-grid.mp4",
+      video: "/lovelyloop.mp4",
     },
       /*
     {
